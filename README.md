@@ -1,4 +1,8 @@
-- Start ActiveMQ : 
+- Execute the floowing command :
+
+  ![image](https://github.com/user-attachments/assets/ba8f166b-c3f8-4f69-a00e-c397eef9109d)
+
+   
 ![image](https://github.com/user-attachments/assets/24488d89-bc17-4d76-8db7-42d75904f304)
 
 
