@@ -1,4 +1,4 @@
-- Execute the floowing command :
+- Execute the folowing command :
 
   ![image](https://github.com/user-attachments/assets/ba8f166b-c3f8-4f69-a00e-c397eef9109d)
 
