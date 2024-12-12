@@ -27,7 +27,7 @@ public class JmsQueueConsumer {
         MessageConsumer consumer = session.createConsumer(destination);
 
         // Attendre un message et le traiter
-        Message message = consumer.receive(); // Attente de 1 seconde
+        Message message = consumer.receive(1); // Attente de 1 seconde
 
         if (message instanceof TextMessage textMessage) {
             System.out.println("Message reçu : " + textMessage.getText());
