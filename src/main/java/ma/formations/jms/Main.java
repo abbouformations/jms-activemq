@@ -15,6 +15,7 @@ public class Main {
             consumer.receive();
             producer.send("....");
             consumer.receive();
+             producer.send("other message");
 
 
         } catch (JMSException e) {
